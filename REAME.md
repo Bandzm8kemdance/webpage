@@ -1,2 +1,2 @@
-my first repository
+my first repository having fun
 My first repository
